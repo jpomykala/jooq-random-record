@@ -46,4 +46,4 @@ Would you like to add something or improve source? Create new issue, let's discu
 - Check out my [website](https://jpomykala.github.io)
 
 # License
-GNU General Public License v3.0
+The MIT License

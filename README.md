@@ -26,7 +26,7 @@ List<CompanyRecord> output = RandomJooq.randomizeList(10, CompanyRecord.class);
 
 Installation
 ```xml
-//waiting for OSHR
+//waiting for OSSRH :)
 ```
 
 # Contribution

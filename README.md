@@ -26,7 +26,11 @@ List<CompanyRecord> output = RandomJooq.randomizeList(10, CompanyRecord.class);
 
 Installation
 ```xml
-//waiting for OSSRH :)
+<dependency>
+  <groupId>com.jpomykala</groupId>
+  <artifactId>jooq-random-record</artifactId>
+  <version>0.0.1</version>
+</dependency>
 ```
 
 # Contribution

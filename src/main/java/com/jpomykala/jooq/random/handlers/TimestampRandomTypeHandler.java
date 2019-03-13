@@ -10,7 +10,7 @@ import java.util.concurrent.ThreadLocalRandom;
 
 /**
  * @author Jakub Pomykala on 4/12/18.
- * @project vending-backend
+
  */
 public class TimestampRandomTypeHandler implements RandomTypeHandler {
 

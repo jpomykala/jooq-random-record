@@ -6,7 +6,7 @@ import lombok.Setter;
 
 /**
  * @author Jakub Pomykala on 4/12/18.
- * @project vending-backend
+
  */
 @Getter
 public class ClassResponse {

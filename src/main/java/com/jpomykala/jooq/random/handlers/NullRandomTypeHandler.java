@@ -7,7 +7,7 @@ import com.jpomykala.jooq.random.RandomTypeHandler;
 
 /**
  * @author Jakub Pomykala on 4/12/18.
- * @project vending-backend
+
  */
 public class NullRandomTypeHandler implements RandomTypeHandler {
 

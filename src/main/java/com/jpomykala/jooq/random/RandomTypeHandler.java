@@ -2,7 +2,7 @@ package com.jpomykala.jooq.random;
 
 /**
  * @author Jakub Pomykala on 4/12/18.
- * @project vending-backend
+
  */
 public interface RandomTypeHandler {
 
